@@ -268,7 +268,7 @@ gg <- gg + labs(title="U.S. Hospitals Mean Rating By State",x="Longitude",y="Lat
 gg <- gg + theme(plot.title = element_text(size=22,face = "bold"))
 gg </pre>
 
-<a href="https://github.com/schroederandrew71/U.S.-Hospital-General-Statistics-R-Markdown/blob/main/US%20Hospitals%20%20Mean%20Rating%20By%20State.png"><h4>See US Hospitals Mean Rating By State png for results</h4></a>
+<a href="https://github.com/schroederandrew71/U.S.-Hospital-General-Statistics-R-Markdown/blob/main/US%20Hospitals%20%20Mean%20Rating%20By%20State.png">See US Hospitals Mean Rating By State png for results</a>
 
 <h4>#The mean ratings for the top three states are:</h4>
 <pre>mean.by.state %>% arrange(desc(mean.rating)) %>% head(3) %>% kable(digits=2)</pre>
