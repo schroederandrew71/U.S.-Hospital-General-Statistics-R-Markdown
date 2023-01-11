@@ -1,6 +1,6 @@
 # U.S.-Hospital-General-Statistics-R-Markdown
 
-An analyst wants to gain insight into the different types of hospitals around the United States. They have a loved one that requires consistant medical attention and is looking to move to FLorida.  The analsyt is looking to provide basic information and suggestions to his loved one on where to move based on ratings and what type of hospital they should choose.  
+An analyst wants to gain insight into the different types of hospitals around the United States. They have a loved one that requires consistant medical attention and is looking to move to Florida.  The analyst is looking to provide basic information and suggestions to his loved one on where to move based on ratings and what type of hospital they should choose.  
 
 The following questions will help provide insight into the state of Florida healthcare and across the nation.  Additionally, what types of hospitals have a higher rating.
 <ol>
